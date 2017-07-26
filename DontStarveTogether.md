@@ -16,7 +16,7 @@ Guia para criar um servidor local com as mesmas configurações do Nutella's Wor
 * Gesture Wheel
 * Item Info
 * Minimap HUD
-* Smart CrockPot
+* Smarter Crock Pot
 
 ## Host Game
 ### Server Settings
